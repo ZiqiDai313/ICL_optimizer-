@@ -1,0 +1,1 @@
+0 0.001 linear_w_embed_mlp all 0.1 6000 100000 3 cosine 0.001 0.001 False
